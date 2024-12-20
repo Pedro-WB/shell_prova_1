@@ -1,0 +1,285 @@
+# Este arquivo viminfo foi gerado pelo Vim 9.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:wq
+|2,0,1734697531,,"wq"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  12  0  ~/shell_prova_1/q8/soma.sh
+|4,48,12,0,1734697531,"~/shell_prova_1/q8/soma.sh"
+'1  5  0  ~/shell_prova_1/q7/tempo.sh
+|4,49,5,0,1734697502,"~/shell_prova_1/q7/tempo.sh"
+'2  13  0  ~/shell_prova_1/q6/calculo.sh
+|4,50,13,0,1734697422,"~/shell_prova_1/q6/calculo.sh"
+'3  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,51,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+'4  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,52,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+'5  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,53,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+
+# Lista de saltos (mais recente primeiro):
+-'  12  0  ~/shell_prova_1/q8/soma.sh
+|4,39,12,0,1734697531,"~/shell_prova_1/q8/soma.sh"
+-'  1  0  ~/shell_prova_1/q8/soma.sh
+|4,39,1,0,1734697527,"~/shell_prova_1/q8/soma.sh"
+-'  5  0  ~/shell_prova_1/q7/tempo.sh
+|4,39,5,0,1734697502,"~/shell_prova_1/q7/tempo.sh"
+-'  5  0  ~/shell_prova_1/q7/tempo.sh
+|4,39,5,0,1734697502,"~/shell_prova_1/q7/tempo.sh"
+-'  1  0  ~/shell_prova_1/q7/tempo.sh
+|4,39,1,0,1734697494,"~/shell_prova_1/q7/tempo.sh"
+-'  1  0  ~/shell_prova_1/q7/tempo.sh
+|4,39,1,0,1734697494,"~/shell_prova_1/q7/tempo.sh"
+-'  13  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,13,0,1734697422,"~/shell_prova_1/q6/calculo.sh"
+-'  13  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,13,0,1734697422,"~/shell_prova_1/q6/calculo.sh"
+-'  13  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,13,0,1734697422,"~/shell_prova_1/q6/calculo.sh"
+-'  13  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,13,0,1734697422,"~/shell_prova_1/q6/calculo.sh"
+-'  1  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,1,0,1734697412,"~/shell_prova_1/q6/calculo.sh"
+-'  1  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,1,0,1734697412,"~/shell_prova_1/q6/calculo.sh"
+-'  1  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,1,0,1734697412,"~/shell_prova_1/q6/calculo.sh"
+-'  1  0  ~/shell_prova_1/q6/calculo.sh
+|4,39,1,0,1734697412,"~/shell_prova_1/q6/calculo.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  12  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,12,0,1734697360,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  1  0  ~/shell_prova_1/q5/make_dir_arq.sh
+|4,39,1,0,1734697339,"~/shell_prova_1/q5/make_dir_arq.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  16  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,16,0,1734697285,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  1  0  ~/shell_prova_1/q4/search_dir.sh
+|4,39,1,0,1734697274,"~/shell_prova_1/q4/search_dir.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  32  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,32,0,1734697179,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+-'  1  0  ~/shell_prova_1/q3/imprimi.sh
+|4,39,1,0,1734697148,"~/shell_prova_1/q3/imprimi.sh"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/shell_prova_1/q8/soma.sh
+	*	1734697528	0
+	"	12	0
+	^	12	0
+	.	11	17
+	+	11	17
+
+> ~/shell_prova_1/q7/tempo.sh
+	*	1734697499	0
+	"	5	0
+	^	5	0
+	.	4	25
+	+	4	25
+
+> ~/shell_prova_1/q6/calculo.sh
+	*	1734697420	0
+	"	13	0
+	^	13	0
+	.	12	13
+	+	12	13
+
+> ~/shell_prova_1/q5/make_dir_arq.sh
+	*	1734697358	0
+	"	12	0
+	^	12	0
+	.	11	4
+	+	11	4
+
+> ~/shell_prova_1/q4/search_dir.sh
+	*	1734697282	0
+	"	16	0
+	^	16	0
+	.	15	34
+	+	15	34
+
+> ~/shell_prova_1/q3/imprimi.sh
+	*	1734697177	0
+	"	32	0
+	^	32	0
+	.	32	0
+	+	32	0
